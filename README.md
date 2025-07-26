@@ -1,10 +1,5 @@
 # ML-Projects
 
-Welcome! This repository is a collection of my machine learning projects — covering from regression and classification to NLP.
-Each project is in its own folder and includes:
-  1.Problem Overview
-  2.Model approach
-  3.Python Implementation with libraries
-  4.Results and Analysis  
+Welcome to my collection of machine learning projects, featuring work across regression, classification, deep learning and natural language processing.Each project is organized in its own folder with a clear problem statement, thoughtful approach, clean Python implementation, and key insights from the results. 
 
 Feel free to explore, learn, or get inspired!
