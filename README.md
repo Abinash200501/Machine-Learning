@@ -5,5 +5,5 @@ Welcome to my collection of machine learning projects, featuring work across reg
 Feel free to explore and learn!
 
 # Projects
-House price prediction
+[House Price Prediction](ML-Algorithms/Linear/house-predicton-linear.ipynb)
 Description: In this project, I utilized Linear Regression to forecast house rent prices based on a range of features such as location, number of bedrooms, and amenities.
